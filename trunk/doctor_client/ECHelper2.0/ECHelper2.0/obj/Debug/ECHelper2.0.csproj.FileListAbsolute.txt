@@ -1,0 +1,116 @@
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ApplicationIcon.png
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Background.png
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2.0.dll
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2.0.pdb
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\App.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\MainPage.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.g.resources
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.dll
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.pdb
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\AppManifest.xaml
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2._0.xap
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\XapCacheFile.xml
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\PatientList.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\PatientDescription.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECGDisplay.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Description.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Consult.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Arrangement.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\arrangeList.g.i.cs
+E:\Imagine cup\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\DetailArrangement.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ApplicationIcon.png
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Background.png
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2.0.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2.0.pdb
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\AppManifest.xaml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2._0.xap
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ResolveAssemblyReference.cache
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.g.resources
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.pdb
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\XapCacheFile.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\System.Windows.Interactivity.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\System.Windows.Interactivity.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\App.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\arrangeList.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Arrangement.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Description.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\diagnosisNagivation.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Diangose.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\DoctorInformation.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\DoctorShortDescription.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ECGDisplay.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Emergency.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\MainPage.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\PatientDescription.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\PatientList.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\PushNotify.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\Record.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\ShowRoute.g.i.cs
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\totalArrangement.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\App.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\arrangeList.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\Arrangement.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\Description.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\diagnosisNagivation.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\Diangose.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\DoctorInformation.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\DoctorShortDescription.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\ECGDisplay.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\Emergency.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\MainPage.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\PatientDescription.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\PatientList.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\Record.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\ShowRoute.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\totalArrangement.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.g.resources
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.dll
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\ApplicationIcon.png
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\Background.png
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2.0.dll
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2.0.pdb
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\AppManifest.xaml
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\ECHelper2._0.xap
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\ECHelper2.0.pdb
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\XapCacheFile.xml
+E:\Imagine cup\WP7\WP7 develop\ECHelper2.0\ECHelper2.0\obj\Debug\recordList.g.i.cs
+D:\学习\各种竞赛\计算机类\微软创新大赛\ECHelper2.0\ECHelper2.0\obj\Debug\recordList.g.i.cs
