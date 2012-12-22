@@ -1,0 +1,15 @@
+E:\ImagineCup\MicroBlog\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\ImagineCup\MicroBlog\DataLayer\bin\Debug\DataLayer.dll
+E:\ImagineCup\MicroBlog\DataLayer\bin\Debug\DataLayer.pdb
+E:\ImagineCup\MicroBlog\DataLayer\obj\Debug\DataLayer.dll
+E:\ImagineCup\MicroBlog\DataLayer\obj\Debug\DataLayer.pdb
+E:\ImagineCup\ImagineCupServer\DataLayer\bin\Debug\DataLayer.dll
+E:\ImagineCup\ImagineCupServer\DataLayer\bin\Debug\DataLayer.pdb
+E:\ImagineCup\ImagineCupServer\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\ImagineCup\ImagineCupServer\DataLayer\obj\Debug\DataLayer.dll
+E:\ImagineCup\ImagineCupServer\DataLayer\obj\Debug\DataLayer.pdb
+E:\ImagineCup\ImagineCupCloudServer\DataLayer\bin\Debug\DataLayer.dll
+E:\ImagineCup\ImagineCupCloudServer\DataLayer\bin\Debug\DataLayer.pdb
+E:\ImagineCup\ImagineCupCloudServer\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\ImagineCup\ImagineCupCloudServer\DataLayer\obj\Debug\DataLayer.dll
+E:\ImagineCup\ImagineCupCloudServer\DataLayer\obj\Debug\DataLayer.pdb

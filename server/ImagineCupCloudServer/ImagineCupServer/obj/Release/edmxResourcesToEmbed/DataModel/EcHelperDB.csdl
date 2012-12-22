@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="echelperDBModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="echelperDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Doctor" EntityType="echelperDBModel.Doctor" />
+    <EntitySet Name="Mail" EntityType="echelperDBModel.Mail" />
+    <EntitySet Name="Patient" EntityType="echelperDBModel.Patient" />
+    <AssociationSet Name="FK_Mail_0" Association="echelperDBModel.FK_Mail_0">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Mail" EntitySet="Mail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Mail_1" Association="echelperDBModel.FK_Mail_1">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Mail" EntitySet="Mail" />
+    </AssociationSet>
+    <AssociationSet Name="Contact" Association="echelperDBModel.Contact">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Doctor" EntitySet="Doctor" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="LiveID" />
+    </Key>
+    <Property Name="LiveID" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Grade" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="1000" Unicode="false" FixedLength="false" />
+    <Property Name="Latitude" Type="Double" />
+    <Property Name="Longitude" Type="Double" />
+    <Property Name="Image" Type="String" MaxLength="1000" Unicode="false" FixedLength="false" />
+    <Property Name="Status" Type="Int32" />
+    <Property Name="Channel" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Mail" Relationship="echelperDBModel.FK_Mail_0" FromRole="Doctor" ToRole="Mail" />
+    <NavigationProperty Name="Patient" Relationship="echelperDBModel.Contact" FromRole="Doctor" ToRole="Patient" />
+  </EntityType>
+  <EntityType Name="Mail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Time" Type="DateTime" />
+    <Property Name="FromOrTo" Type="Int32" />
+    <Property Name="DoctorID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="PatientID" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ECG" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="TextContent" Type="String" MaxLength="1000" Unicode="false" FixedLength="false" />
+    <Property Name="IsRead" Type="Int32" />
+    <NavigationProperty Name="Doctor" Relationship="echelperDBModel.FK_Mail_0" FromRole="Mail" ToRole="Doctor" />
+    <NavigationProperty Name="Patient" Relationship="echelperDBModel.FK_Mail_1" FromRole="Mail" ToRole="Patient" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="LiveID" />
+    </Key>
+    <Property Name="LiveID" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Gender" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Allergy" Type="String" MaxLength="1000" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="1000" Unicode="false" FixedLength="false" />
+    <Property Name="Latitude" Type="Double" />
+    <Property Name="Longitude" Type="Double" />
+    <Property Name="Status" Type="Int32" />
+    <Property Name="Channel" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Mail" Relationship="echelperDBModel.FK_Mail_1" FromRole="Patient" ToRole="Mail" />
+    <NavigationProperty Name="Doctor" Relationship="echelperDBModel.Contact" FromRole="Patient" ToRole="Doctor" />
+  </EntityType>
+  <Association Name="FK_Mail_0">
+    <End Role="Doctor" Type="echelperDBModel.Doctor" Multiplicity="0..1" />
+    <End Role="Mail" Type="echelperDBModel.Mail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="LiveID" />
+      </Principal>
+      <Dependent Role="Mail">
+        <PropertyRef Name="DoctorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Mail_1">
+    <End Role="Patient" Type="echelperDBModel.Patient" Multiplicity="0..1" />
+    <End Role="Mail" Type="echelperDBModel.Mail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="LiveID" />
+      </Principal>
+      <Dependent Role="Mail">
+        <PropertyRef Name="PatientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Contact">
+    <End Role="Patient" Type="echelperDBModel.Patient" Multiplicity="*" />
+    <End Role="Doctor" Type="echelperDBModel.Doctor" Multiplicity="*" />
+  </Association>
+</Schema>
