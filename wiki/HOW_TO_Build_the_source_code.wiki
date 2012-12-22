@@ -15,7 +15,7 @@
 
 = Introduction =
 
-The source code is divided into three parts: *Patient Client*, *Doctor Client* and *Server*. The whole architecture is shown in [here http://code.google.com/p/echelper/#Architecture].
+The source code is divided into three parts: *Patient Client*, *Doctor Client* and *Server*. The whole architecture is shown in [http://code.google.com/p/echelper/#Architecture here].
 
 = Patient Client =
 
@@ -87,4 +87,4 @@ svn checkout http://atmars.googlecode.com/svn/trunk/server server
 
 = Technical Help =
 
-Please check our [Issue Tracker http://code.google.com/p/echelper/issues/list] or [Developer Group http://groups.google.com/group/echelper-discuss] if you have any question.
+Please check our [http://code.google.com/p/echelper/issues/list Issue Tracker] or [http://groups.google.com/group/echelper-discuss Developer Group] if you have any question.
