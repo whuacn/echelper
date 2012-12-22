@@ -1,0 +1,13 @@
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\bin\Release\ServiceConfiguration.cscfg
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\bin\Release\ValidationIssues.xml
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\ImagineCupServer.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\ImagineCupServer.pdb
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\bin\SecurityModule.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\CallbackService.svc
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\crossdomain.xml
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\Service.svc
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupCloud\obj\Release\ImagineCupServer\Web.config

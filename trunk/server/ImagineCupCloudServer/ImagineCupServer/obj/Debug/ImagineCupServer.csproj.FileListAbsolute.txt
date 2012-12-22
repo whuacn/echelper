@@ -1,0 +1,9 @@
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\bin\ImagineCupServer.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\bin\ImagineCupServer.pdb
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\obj\Debug\ResolveAssemblyReference.cache
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\obj\Debug\ImagineCupServer.dll
+E:\ImagineCup\ImagineCupCloudServer\ImagineCupServer\obj\Debug\ImagineCupServer.pdb
