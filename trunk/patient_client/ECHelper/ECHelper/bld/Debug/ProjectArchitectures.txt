@@ -1,0 +1,3 @@
+C:\Users\shuo\Desktop\ECHelper2.01\ECHelper\ConnectionLibrary\ConnectionLibrary.csproj;neutral
+C:\Users\shuo\Desktop\ECHelper2.01\ECHelper\ECHelper\ECHelper.jsproj;neutral
+C:\Users\shuo\Desktop\ECHelper2.01\ECHelper\NotificationsExtensions\NotificationsExtensions.csproj;neutral
