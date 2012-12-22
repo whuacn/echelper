@@ -11,6 +11,8 @@
  * [#Server Server]
    * [#Environment_Requirement_in_Server Environment Requirement]
    * [#Building_the_Source_Code_in_Server Building the Source Code]
+ * [#Technical_Help Technical Help]
+
 = Introduction =
 
 The source code is divided into three parts: *Patient Client*, *Doctor Client* and *Server*. The whole architecture is shown in [here http://code.google.com/p/echelper/#Architecture].
@@ -82,3 +84,7 @@ svn checkout http://atmars.googlecode.com/svn/trunk/server server
 </code>
  * Open the *\ImagineCupCloudServer\ImagineCupCloudServer.sln* in Visual Studio 2010 Professional, remember to change the account information of Windows Azure.
  * Deploy the project in Windows Azure.
+
+= Technical Help =
+
+Please check our [Issue Tracker http://code.google.com/p/echelper/issues/list] or [Developer Group http://groups.google.com/group/echelper-discuss] if you have any question.
