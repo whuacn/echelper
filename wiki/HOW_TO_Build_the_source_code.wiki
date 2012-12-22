@@ -1,0 +1,84 @@
+#labels Phase-Deploy
+#This page talks about how to build the source code
+
+ * [#Introduction Introduction]
+ * [#Patient_Client Patient Client]
+   * [#Patient_Environment_Requirement Environment Requirement]
+   * [#Patient_Building_the_Source_Code Building the Source Code]
+ * [#Doctor_Client Doctor Client]
+   * [#Doctor_Environment_Requirement Environment Requirement]
+   * [#Doctor_Building_the_Source_Code Building the Source Code]
+ * [#Server Server]
+   * [#Server_Environment_Requirement Environment Requirement]
+   * [#Server_Building_the_Source_Code Building the Source Code]
+= Introduction =
+
+The source code is divided into three parts: *Patient Client*, *Doctor Client* and *Server*. The whole architecture is shown in [here http://code.google.com/p/echelper/#Architecture].
+
+= Patient Client =
+
+== Environment Requirement ==
+
+ * Windows 8 Consumer Preview
+ * Visual Studio 2010 Professional
+ * Visual Studio 11 Professional Beta
+ * Bing Maps SDK
+ * CP210X Driver and ECG Sensor
+
+== Building the Source Code ==
+
+ * Create a new directory named *patient_client*
+<code>
+mkdir patient_client
+</code>
+ * Checkout Patient Client source code into *patient_client*
+<code>
+svn checkout http://atmars.googlecode.com/svn/trunk/patient_client patient_client
+</code>
+ * Open the *\ECHelper\ECHelper.sln* in Visual Studio 11 Professional Beta, remember to change the developer information in *Project Properties* and the the details in server information.
+ * Open the *\ECGNotify\ECGNotify.sln* in Visual Studio 2010 Professional.
+ * Plugin the ECG Sensor and run the two projects.
+
+= Doctor Client =
+
+== Environment Requirement ==
+
+ * Windows 7 Professional
+ * Visual Studio 2010 Professional
+ * Windows Phone 7 SDK
+ * Bing Maps SDK
+
+== Building the Source Code ==
+
+ * Create a new directory named *doctor_client*
+<code>
+mkdir doctor_client
+</code>
+ * Checkout Doctor Client source code into *doctor_client*
+<code>
+svn checkout http://atmars.googlecode.com/svn/trunk/doctor_client doctor_client
+</code>
+ * Open the *\ECHelper2.0\ECHelper2.0.sln* in Visual Studio 2010 Professional, remember to change the developer information in *Project Properties* and the the details in server information.
+ * Run the project.
+
+= Server =
+
+== Environment Requirement ==
+
+ * Windows 7 Professional
+ * Visual Studio 2010 Professional
+ * Windows Azure SDK
+ * Windows Azure Account
+
+== Building the Source Code ==
+
+ * Create a new directory named *server*
+<code>
+mkdir server
+</code>
+ * Checkout Server source code into *server*
+<code>
+svn checkout http://atmars.googlecode.com/svn/trunk/server server
+</code>
+ * Open the *\ImagineCupCloudServer\ImagineCupCloudServer.sln* in Visual Studio 2010 Professional, remember to change the account information of Windows Azure.
+ * Deploy the project in Windows Azure.
